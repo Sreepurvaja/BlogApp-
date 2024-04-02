@@ -47,9 +47,11 @@ Users can signup  and login to website to write a blog. And  they can edit , del
   ## Edit Blog
   
  ![Screenshot (220)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/cf672ec3-f618-4e4e-8889-7a4ba964c322)
- 
-
+  ## View Blog
+  
 ![Screenshot (223)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/7d8a8123-1d25-4427-812e-60708a2dbae4)
+  ## Add Comments
+  
 ![Screenshot (222)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/f6d011cb-e6fc-43d4-b40a-066609104d66)
 
 
