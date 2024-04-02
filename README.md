@@ -38,11 +38,20 @@ Users can signup  and login to website to write a blog. And  they can edit , del
   ## Add article
   
 ![Screenshot (218)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/3dd9fd2d-c0b7-44fb-ac31-cfb109f1791b)
+  ## Dashdoard
+  
+![Screenshot (219)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/e23feb19-3341-4173-a017-acccaff1fa1a) 
+  ## Delete Blog
+  
+ ![Screenshot (221)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/5face653-b9af-4d23-8516-c3100154a9e2)
+  ## Edit Blog
+  
+ ![Screenshot (220)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/cf672ec3-f618-4e4e-8889-7a4ba964c322)
+ 
+
 ![Screenshot (223)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/7d8a8123-1d25-4427-812e-60708a2dbae4)
 ![Screenshot (222)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/f6d011cb-e6fc-43d4-b40a-066609104d66)
-![Screenshot (221)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/5face653-b9af-4d23-8516-c3100154a9e2)
-![Screenshot (220)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/cf672ec3-f618-4e4e-8889-7a4ba964c322)
-![Screenshot (219)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/e23feb19-3341-4173-a017-acccaff1fa1a)
+
 
 
 
