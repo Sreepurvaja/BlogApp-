@@ -25,3 +25,6 @@ Users can signup  and login to website to write a blog. And  they can edit , del
         CREATE TABLE articles (id INT(11) AUTO_INCREMENT PRIMARY KEY, title VARCHAR(255), author VARCHAR(100), body TEXT, create_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
 
         CREATE TABLE users(id INT(11) AUTO_INCREMENT PRIMARY KEY, name VARCHAR(100),email VARCHAR(100), username VARCHAR(30), password VARCHAR(100), register_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+
+  # BLOGAPP
+  ![Screenshot (215)](https://github.com/Sreepurvaja/BlogApp-/assets/99593891/37d9d121-6de2-4cb8-a71a-72fcb06b776b)
